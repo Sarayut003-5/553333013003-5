@@ -8,5 +8,6 @@ public class Test {
 		System.out.println("name : "+lamp.getName());
 		System.out.println("position : "+lamp.getPosition());
 		System.out.println("friend : "+lamp.getFriend()[0]);
+		new Tenner(1);
 	}
 }

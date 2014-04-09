@@ -12,7 +12,7 @@ public class Tenner {
 		friend = new String[]{"Cristiano Ronaldo","Leo Messi","Wayne Rooney"};
 	}
 	public Tenner(int a) {
-		
+		System.out.println("Neymar Overloadind 1");
 	}
 	public String getName(){			
 		return name;		
