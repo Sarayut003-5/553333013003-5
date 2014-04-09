@@ -8,7 +8,7 @@ public class Tenner {
 	public Tenner() {
 		name = "Neymar";
 		position = "Striker - ST";
-		friend = new String[]{"Cristiano Ronaldo","Leo Messi","Wayne Rooney"};
+		friend = new String[]{"Cristiano Ronaldo","Wayne Rooney","Leo Messi"};
 	}
 	public Tenner(int c) {
 		System.out.println("Neymar Overloadind 2");
