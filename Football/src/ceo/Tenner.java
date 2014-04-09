@@ -8,11 +8,11 @@ public class Tenner {
 	private String friend[];
 	public Tenner() {
 		name = "Neymar";
-		position = "SS";
+		position = "Striker - ST";
 		friend = new String[]{"Cristiano Ronaldo","Leo Messi","Wayne Rooney"};
 	}
-	public Tenner(int a) {
-		System.out.println("Neymar Overloadind 1");
+	public Tenner(int c) {
+		System.out.println("Neymar Overloadind 2");
 	}
 	public String getName(){			
 		return name;		
